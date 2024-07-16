@@ -60,9 +60,9 @@ Resulting in a preview at right, like this:
 
 If your github handle was `petecarapetyan` and your name was `John Smith` and you had your browser set on dark theme then this is what your completed `Assignment0` page would look like.
 
-At this time, we do not review Assignment0, it is for your personal education only, so do not hand it in to the Assignments App like you would with Assignments 1-15
+At this time, we do not review Assignment0, it is for your personal education only, so do not hand it in to the Assignments App like you would with Assignments 1-15!
 
-![Complete](/images/complete.jpg)
+![alt text](<images/Hello World.png>)
 
 ## Extra Credit
 
@@ -72,7 +72,7 @@ For extra credit even before you will need it on Assignment 1, place a photograp
 
 Hopefully your smile will look every bit as dorky as mine.
 
-![Image description](/images/Hello World.png)
+![Image description](<images/Hello World.png>)
 
 File path problems are very typical for most students in assignments 1 and 3. This is a good thing to learn early and get out of the way. If you don't understand how I got `/images/Hello World.png` as the file path feel free to consult bard or chatgpt or any other AI.
 
