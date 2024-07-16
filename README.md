@@ -72,7 +72,7 @@ For extra credit even before you will need it on Assignment 1, place a photograp
 
 Hopefully your smile will look every bit as dorky as mine.
 
-![Image description](/images/wpic.jpg)
+![Image description](/images/Hello World.png)
 
 File path problems are very typical for most students in assignments 1 and 3. This is a good thing to learn early and get out of the way. If you don't understand how I got `/images/Pete.jpg` as the file path feel free to consult bard or chatgpt or any other AI.
 
